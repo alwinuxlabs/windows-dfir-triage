@@ -1,6 +1,6 @@
 # 🚨 Windows DFIR Triage Script v1.1
 
-Lightweight PowerShell-based DFIR triage script for rapid incident response collection.
+Lightweight PowerShell-based DFIR triage script for rapid incident response collection for Windows systems.
 
 * **Author:** Alwin Espiritu (`alwinux`)
 * **Date:** 2026-04-10
