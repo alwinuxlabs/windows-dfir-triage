@@ -36,3 +36,9 @@ Optional:
 1. Download the script:
    ```powershell
    git clone https://github.com/n00b101/windows-dfir-triage.git
+2. Navigate to the folder:
+   ```powershell
+   cd windows-dfir-triage
+3. Run the script as Administrator:
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File .\dfir-triage.ps1
